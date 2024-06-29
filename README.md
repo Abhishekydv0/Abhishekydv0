@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Abhishek Yadav hehehehehehehehehehee
+- 👋 Hi, I’m Abhishek Yadav
 - 👀 I’m interested in writing codes
-- 🌱 I’m currently learning mern stack and software development
+- 🌱 I’m currently learning Dart and flutter
 - 💞️ I’m looking to collaborate on highly upskilled projects
 - 📫 How to reach me - abhishek777555666@gmail.com/
 -linkedin---> https://www.linkedin.com/in/abhishek-yadav-2180a7285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
