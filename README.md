@@ -1,13 +1,8 @@
-- 👋 Hi, I’m Abhishek Yadav
-- 👀 I’m interested in writing codes
-- 🌱 I’m currently learning Dart and flutter
-- 💞️ I’m looking to collaborate on highly upskilled projects
-- 📫 How to reach me - abhishek777555666@gmail.com/
--linkedin---> https://www.linkedin.com/in/abhishek-yadav-2180a7285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i easily change surrounding according to my comfort
-
-<!---
-Abhishekydv0/Abhishekydv0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Abhishek Yadav  
+- 👀 I’m interested in **Cybersecurity and Java Development**  
+- 🌱 I’m currently learning **Cybersecurity, Ethical Hacking, and Java (Core to Microservices)**  
+- 💻 I have knowledge of **Dart, C, C++, Python, JavaScript, HTML, and CSS**  
+- 💞️ I’m looking to collaborate on **security-focused and Java-based projects**  
+- 📫 How to reach me: [Email](mailto:abhishek777555666@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhishek-yadav-2180a7285)  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I quickly adapt to my surroundings for maximum comfort  
